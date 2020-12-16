@@ -1,5 +1,11 @@
 # hello-world
 
+What is love?
+
+I don't know.
+But Carlos Drumond de Andrade new.
+He said.
+
 Joao = input ("What's your name?")
 
  print (João, "amava Teresa que amava Raimundo
